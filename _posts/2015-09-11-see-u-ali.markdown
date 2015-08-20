@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "See you, Alibaba "
-subtitle:   "再见，阿里。"
+title:      "hahahah改了 "
+subtitle:   "？？？。"
 date:       2015-05-11
 author:     "Hux"
 header-img: "img/post-bg-see-u-ali.jpg"

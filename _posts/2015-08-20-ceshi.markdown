@@ -4,7 +4,7 @@ title:      "测试文章 "
 subtitle:   "第一篇文章"
 date:       2015-08-20
 author:     "wideplum"
-header-img: "img/bg-ceshi.jpg"
+header-img: "img/post-bg-ceshi.jpg"
 tags:
     - 测试
 ---

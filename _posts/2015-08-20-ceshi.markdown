@@ -1,5 +1,4 @@
-﻿
----
+﻿---
 layout:     post
 title:      "测试文章 "
 subtitle:   "第一篇文章"
@@ -30,3 +29,12 @@ tags:
   
 
  - 123123
+ * 微信：@huxpro （都在群里）
+* 微博：@Hux黄玄
+* 知乎：@黄玄
+* 博客：<http://huangxuan.me>
+
+ 
+**Hey，这里是编号 79717**
+ 
+![img](/img/in-post/post-c-u-ali-079717.png)

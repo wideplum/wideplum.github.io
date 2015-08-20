@@ -1,0 +1,32 @@
+﻿
+---
+layout:     post
+title:      "测试文章 "
+subtitle:   "第一篇文章"
+date:       2015-08-20
+author:     "wideplum"
+header-img: "img/bg-ceshi.jpg"
+tags:
+    - 测试
+---
+
+
+# 这是我的第一篇文章
+
+
+
+---
+
+这是我的第一篇文章
+
+ 1. 首先这是第一行
+ 2. 这是第二行
+
+![这是测试用的][1]
+
+
+  [1]: /img/in-post/post-ceshi.jpg
+  ## 这是标题 ##
+  
+
+ - 123123

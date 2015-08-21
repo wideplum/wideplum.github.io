@@ -1,0 +1,32 @@
+---
+layout:     post
+title:      "这是第一篇文章"
+subtitle:   "测试使用"
+date:       2015-08-21 
+author:     "Wideplum"
+header-img: "img/post-bg-unix-linux.jpg"
+tags:
+    - 测试使用
+    
+---
+
+> This document is not completed and will be updated anytime.
+
+
+## Catagory
+
+1. 测试
+	1. [Bell Labs](#bell-labs)
+	
+2. [Unix-like](#unix-like)
+	1. [Single Unix Specification](#single-unix-specification)
+
+3. [Linux](#linux)
+	1. [Linux Kernel](#linux-kernel)
+
+
+#这是什么
+我也不知道
+
+
+

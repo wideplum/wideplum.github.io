@@ -18,7 +18,7 @@ tags:
 
 这是我今天的感悟！在继续2的岁月里，虽然现在还一事无成，但是我相信自己会是一个牛逼的产品经理。就是这样~<br/>
 
-![img](/img/in-post/post-sample-image.jpg)
+![img](/img/post-sample-image.jpg)
 
 ##感谢男神~[清泉古雾](http://jser.io)的墙裂支持!
 
